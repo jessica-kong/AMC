@@ -1,5 +1,5 @@
 
-In all the models, 'data_en/data_cn' should contain train/val/test set of one fold, and users should try 5-fold validation. Full datasets are given.
+In all the models, 'data_en/data_cn' should contain train/val/test set of one fold, and users should try 5-fold validation. Full datasets are given in dataset.zip.
 
 ※ BERT, Roberta, BART and T5: run the python file that ends with 'run.py' in each folder. 
 
